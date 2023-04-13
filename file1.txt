@@ -1,6 +1,2 @@
 Hello ,
-Git how are you, i am chaning your file
-Creating a tag, 
-chaning into feature branch
-Creating tag in feature branch ,
-
+rebase example main -> featuer
